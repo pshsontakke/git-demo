@@ -1,0 +1,129 @@
+body.background {
+	background: rgba(0, 0, 0, 0) url("../images/background.jpg") no-repeat 0 0 / cover;
+}
+.container {
+	width: 1170px;
+	margin: 0 auto;
+}
+.ship-container {
+	display: inline-block;
+	width: 100%;
+	position: relative;
+	overflow: visible;
+	-webkit-animation: boat-in-animation 3s 1 ease-out;
+	-moz-animation: boat-in-animation 3s 1 ease-out;
+	-o-animation: boat-in-animation 3s 1 ease-out;
+	-ms-animation: boat-in-animation 3s 1 ease-out;
+	animation: boat-in-animation 3s 1 ease-out;
+}
+@keyframes boat-in-animation {
+	0%   {left: -200px;}
+	100% {left: 0px;}
+}
+.ship {
+	background: rgba(0, 0, 0, 0) url("../images/ship-sail1.png") no-repeat scroll 0 0;
+	width: 345px;
+	height: 279px;
+	position: absolute;
+	top: 230px;
+	left: 300px;
+	overflow: visible;
+		-webkit-animation: boat-animation 2s infinite ease-in-out;
+		-moz-animation: boat-animation 2s infinite ease-in-out;
+		-o-animation: boat-animation 2s infinite ease-in-out;
+		-ms-animation: boat-animation 2s infinite ease-in-out;
+		animation: boat-animation 2s infinite ease-in-out;
+}
+@-webkit-keyframes boat-animation {
+	0%   {top: 230px; left: 0px;}
+	25%  {top: 225px; left: -2px;}
+	70%  {top: 235px; left: -4px;}
+	100% {top: 230px; left: 0px;}
+}
+@-moz-keyframes boat-animation {
+	0%   {top: 230px; left: 0px;}
+	25%  {top: 225px; left: -2px;}
+	70%  {top: 235px; left: -4px;}
+	100% {top: 230px; left: 0px;}
+}
+@-o-keyframes boat-animation {
+	0%   {top: 230px; left: 0px;}
+	25%  {top: 225px; left: -2px;}
+	70%  {top: 235px; left: -4px;}
+	100% {top: 230px; left: 0px;}
+}
+@-ms-keyframes boat-animation {
+	0%   {top: 230px; left: 0px;}
+	25%  {top: 225px; left: -2px;}
+	70%  {top: 235px; left: -4px;}
+	100% {top: 230px; left: 0px;}
+}
+@keyframes boat-animation {
+	0%   {top: 230px; left: 0px;}
+	25%  {top: 225px; left: -2px;}
+	70%  {top: 235px; left: -4px;}
+	100% {top: 230px; left: 0px;}
+}
+
+.wave-big {
+	background: url("../images/wave-big.png")no-repeat scroll 0 0;
+	width: 107px;
+	height: 34px;
+	position: absolute;
+    top: 472px;
+    width: 107px;
+    left: 215px;
+    -webkit-animation: wave-animation 2s infinite ease-in-out;
+    -moz-animation: wave-animation 2s infinite ease-in-out;
+    -ms-animation: wave-animation 2s infinite ease-in-out;
+    -o-animation: wave-animation 2s infinite ease-in-out;
+    animation: wave-animation 2s infinite ease-in-out;
+}
+@keyframes wave-animation {
+	0%   {top: 478px; left: 215px;}
+	25%  {top: 472px; left: 212px;}
+	70%  {top: 479px; left: 208px;}
+	100% {top: 477px; left: 215px;}
+}
+
+.flag-comp {
+	display: inline-block;
+    left: 101px;
+    position: absolute;
+    top: 204px;
+    overflow: visible;
+		-webkit-animation: flag-comp-animation 2s infinite ease-in-out;
+		-moz-animation: flag-comp-animation 2s infinite ease-in-out;
+		-o-animation: flag-comp-animation 2s infinite ease-in-out;
+		-ms-animation: flag-comp-animation 2s infinite ease-in-out;
+		animation: flag-comp-animation 2s infinite ease-in-out;
+}
+@keyframes flag-comp-animation {
+	0%   {top: 204px; left: 101px;}
+	25%  {top: 199px; left: 98px;}
+	70%  {top: 209px; left: 97px;}
+	100% {top: 204px; left: 101px;}
+}
+
+.flag1 {
+	position: absolute;
+	animation: flagone-animation 2s infinite ease-in-out;
+	left: -19px;
+	top: 8px;
+}
+@keyframes flagone-animation {
+	0%   {transform:skewY(0deg);}
+	25%  {transform:skewY(15deg);}
+	70%  {transform:skewY(5deg);}
+	100% {transform:skewY(0deg);}
+}
+.flag2 {
+	animation: flagtwo-animation 2s infinite ease-in-out;
+	
+}
+@keyframes flagtwo-animation {
+	0%   {transform:skewY(-10deg);}
+	25%  {transform:skewY(-5deg);}
+	70%  {transform:skewY(0deg);}
+	100% {transform:skewY(-10deg);}
+}
