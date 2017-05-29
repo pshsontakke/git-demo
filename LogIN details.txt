@@ -1,0 +1,153 @@
+LOGIN DETAILS
+======================================================================
+
+http://design.neosofttech.in/71
+User - piyush.s
+Pass - Rwd775*a
+
+-----------------------------------------------------------
+
+Skype details
+
+
+designer_empid00614
+p@ssw0rd00614
+
+-----------------------------------------------------------------------
+
+
+FTP Details
+
+http://mshop.php-dev.in/piyush/
+mshop.php-dev.in
+piyush_s@mshop.php-dev.in
+NyhxiMd}mh(]
+
+
+
+----------------------------------------------------------------------
+
+
+AdviceIT details
+
+
+FTP
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: ai.php-dev.in
+| Ip: 180.149.243.31 (n)
+| HasCgi: y
+| UserName: aiphpdev
+| PassWord: by_1H!KyTXWT
+| CpanelMod: x3
+| HomeRoot: /home
+| Quota: unlimited Meg
+| NameServer1: ns1.rapidns.com
+| NameServer2: ns2.rapidns.com
+| NameServer3: 
+| NameServer4: 
+| Contact Email: tushar.chopde@wwindia.com
+| Package: default
+| Feature List: default
+| Language: en
++==================================
+
+DATABASE
+dbName: aiphpdev_adviceit
+dbUser: aiphpdev_advit
+dbPwd: G1M%z)}vOZao
+
+WP
+ai.php-dev.in/wp-admin
+admin
+G1M%z)}vOZao
+
+
+------------------------------------------------------------------------
+
+
+maxdesign.com
+
+
+------------------------------------------------------------------
+
+
+MirrorEdge
+Database name - mirroredge
+table prefix - mie
+uname - admin
+pwd - admin123
+
+
+-----------------------------------------------------------------
+
+
+-------------------------------------------------------------------
+
+
+RHONDA
+
+wp -
+user : admin
+pass : rhonda_larson)$!#
+
+Username: darshana
+Password: darshana123
+http://rhondalarson.php-dev.in/wp-login.php
+https://wordpress.org/plugins/easy-digital-downloads/ - plugin
+
+FTP
+ftp -
+Domain: rhondalarson.php-dev.in
+Ip: 180.149.243.31 (n)
+UserName: rhondalarsonphpd
+PassWord: Dq2;=}^;P_2r
+[2:29:03 PM] Darshana Adanwale:
+
+
+--------------------------------------------------------------------
+
+
+Prime BAlance
+
+
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: pb.php-dev.in
+| Ip: 180.149.243.31 (n)
+| HasCgi: y
+| UserName: pbphpdev
+| PassWord: $E!pe_;n}2Ri
+| CpanelMod: x3
+| HomeRoot: /home
+| Quota: unlimited Meg
+| NameServer1: ns1.rapidns.com
+| NameServer2: ns2.rapidns.com
+| NameServer3: 
+| NameServer4: 
+| Contact Email: tushar.chopde@wwindia.com
+| Package: default
+| Feature List: default
+| Language: en
++===================================+
+
+database name - pbphpdev_primeb
+pwd - .q?^#iK3-l1#
+uname - pbphpdev_primeb
+
+----------------------------
+wp-uname - pb_admin
+wp-pwd- .pb_@dmin1).
+---------------------------
+
+
+
+<a href="mailto:emailid"></a>
+
+
+----------------------------------------------------------------
+
+
+	
